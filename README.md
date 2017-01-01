@@ -1,7 +1,7 @@
-JellyX for XFCE Terminal
+CyberPunk for XFCE Terminal
 ========================
 
-[JellyX](https://github.com/guns/jellyx.vim) theme for XFCE terminal.
+[CyberPunk](https://github.com/guns/jellyx.vim) theme for XFCE terminal.
 
 
 Screenshots

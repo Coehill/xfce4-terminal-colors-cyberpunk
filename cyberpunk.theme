@@ -1,0 +1,9 @@
+[Scheme]
+Name=CyberPunk (dark)
+ColorForeground=#b16cff
+ColorBackground=#020314
+ColorCursor=#b332e6
+TabActivityColor=#b332e6
+ColorPalette=#020314;#e032e6;#5932e6;#afd75f;#8632e6;#5932e6;#bb32e6;#ffffff;#0a0a0a;#d787af;#5faf5f;#d7af5f;#87afd7;#8787d7;#87afff;#ffffff
+ColorBold=#5fafd7
+ColorBoldUseDefault=FALSE
